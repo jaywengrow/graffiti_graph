@@ -4,9 +4,9 @@ Residents of Chicago can request graffiti removal by calling 3-1-1. Your job is 
 
 ## Exercise Instructions
 
-Your tool should interact with the City of Chicago's data API to retrieve the information needed. 
+Your tool should interact with the City of Chicago's data API to retrieve the information needed. It's up to you as to how the dashboard should display the data, but some sort of visual graph or chart may be nice! The main thing is that we can see how many 3-1-1 requests were made for each ward.
 
-The data sets to use for this coding challenge are Chicago's graffiti removal request data set.
+The data set to use for this coding challenge are Chicago's graffiti removal request data set: https://data.cityofchicago.org/resource/hec5-y4x5.json 
 
 Graffiti removal requests data set API description:
 
