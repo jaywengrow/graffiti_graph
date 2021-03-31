@@ -14,7 +14,11 @@ Graffiti removal requests data set API description:
 
 This API happens to be paginated, and only shows 1,000 items at a time. For the purposes of this exercise, assume that the first 1,000 items are *all* of the removal requests; you don't need to bother with any of the remaining requests.
 
+### Bonus
+
 As a bonus, allow the user to input a month and year so that the dashboard only displays the graffiti removal requests for that period of time.
+
+## Submission
 
 Please submit your challenge application within 7 days. We have designed the challenge
 so you should be able to finish it in no more than 6 hours.
