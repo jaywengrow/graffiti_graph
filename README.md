@@ -16,8 +16,5 @@ This API happens to be paginated, and only shows 1,000 items at a time. For the 
 
 As a bonus, allow the user to input a month and year so that the dashboard only displays the graffiti removal requests for that period of time.
 
-
-
-
-
-
+Please submit your challenge application within 7 days. We have designed the challenge
+so you should be able to finish it in no more than 6 hours.
